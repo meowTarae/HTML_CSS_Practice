@@ -19,7 +19,9 @@ p {
   /* 박스 내부의 텍스트의 양이 많아 박스를 뚫고 나올 때,
      뚫고 나온 부분을 가리는(hidden) 코드 */
   background: linear-gradient(90deg, #000, #fff, #000);
+  /* 배경을 검흰검으로 하고 오른쪽으로 90deg 기울인것 */
   background-repeat: no-repeat;
+  /* 배경 중복 관련 */
   background-size: 80%;
   animation: animate 3s linear infinite;
   -webkit-background-clip: text;
