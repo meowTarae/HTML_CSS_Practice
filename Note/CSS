@@ -1,0 +1,10 @@
+1.
+    box-sizing
+        1 ) content-box
+            box(content) size를 
+            width, height와 border, padding 값을 합으로 정함.
+        2 ) border-box
+            width, height에서 border, padding 값을 뺀 값으로 정함.
+
+2. 
+    skew(-20deg, -10deg)
