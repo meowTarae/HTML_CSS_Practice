@@ -1,0 +1,11 @@
+.redCube {
+  background: red;
+  margin: 0 auto;
+  display: block;
+  padding: 40px 0;
+  text-align: center;
+  color: #fff;
+  font: sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+}
