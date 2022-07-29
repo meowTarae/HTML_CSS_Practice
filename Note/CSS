@@ -6,7 +6,13 @@
         2 ) border-box
             width, height에서 border, padding 값을 뺀 값으로 정함.
 
+
 2. 
     skew(-20deg, -10deg)
 
+
 3. 
+    -webkit- : 구글, 사파리 브라우저에 적용
+    -moz- : 파이어폭스 브라우저에 적용
+    -ms- : 익스플로러에 적용, 보통 생략합니다.
+    -o- : 오페라 브라우저에 적용
